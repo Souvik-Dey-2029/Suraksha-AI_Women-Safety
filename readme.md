@@ -16,8 +16,7 @@ To understand and implement a basic ML workflow that:
 ## 🛠️ Technologies Used
 - Python  
 - Google Colab  
-- Pandas  
-- NumPy  
+- Pandas   
 - Scikit-learn  
 - Machine Learning (Classification)
 
