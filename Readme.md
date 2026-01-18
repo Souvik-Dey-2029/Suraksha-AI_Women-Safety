@@ -31,15 +31,6 @@ To understand and implement a basic ML workflow that:
 6. Accuracy evaluation  
 7. Testing with sample inputs  
 
----
-
-## 🚀 How to Run
-1. Open the notebook in **Google Colab**  
-2. Run all cells in sequence  
-3. Modify input values to test different safety predictions  
-
----
-
 ## 🎓 Learning Outcomes
 - Understanding ML pipeline basics  
 - Hands-on experience with classification models  
@@ -57,3 +48,16 @@ Grateful for the guidance and learning opportunity provided during the event.
 ## 📌 Author
 **Souvik Dey**  
 First-year B.Tech CSE (AI & ML) student  
+
+
+## 🚀 How to Run
+1. Open the notebook in **Google Colab**  
+2. Run all cells in sequence  
+3. Modify input values to test different safety predictions  
+
+## 💻 Run Locally (VS Code)
+
+Follow the steps below to run this project locally using **Visual Studio Code**.
+
+
+
